@@ -1,0 +1,12 @@
+"love big"	2
+"big data"	3
+"data is"	3
+"have big"	1
+"i"	2
+"5"	1
+"6"	1
+"7"	1
+"may you"	1
+"12"	1
+"4"	1
+"43"	1

@@ -1,0 +1,14 @@
+"love big data"	1
+"love big"	1
+"big data love"	1
+"big data"	2
+"data big data"	1
+"data big"	1
+"data love me"	1
+"data love"	1
+"May I"	1
+"big data big"	1
+"love me"	1
+"I love big"	1
+"I love"	1
+"May I love"	1
